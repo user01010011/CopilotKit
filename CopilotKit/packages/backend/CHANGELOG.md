@@ -1,5 +1,16 @@
 # @copilotkit/cloud
 
+## 0.36.0
+
+### Minor Changes
+
+- 8baa862: Add push to talk prototype
+
+### Patch Changes
+
+- Updated dependencies [8baa862]
+  - @copilotkit/shared@0.36.0
+
 ## 0.36.0-mme-push-to-talk.0
 
 ### Minor Changes

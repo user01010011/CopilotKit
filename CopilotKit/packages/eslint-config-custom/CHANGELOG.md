@@ -1,5 +1,11 @@
 # eslint-config-custom
 
+## 0.11.0
+
+### Minor Changes
+
+- 8baa862: Add push to talk prototype
+
 ## 0.11.0-mme-push-to-talk.0
 
 ### Minor Changes
